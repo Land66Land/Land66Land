@@ -7,8 +7,8 @@
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
-  
+<h3 align="center">:hammer: Tech Stack</h3>
+ 
  <br/>
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -24,15 +24,17 @@
  
    <br/>
    <br/>
- 
-#### :pencil2: Study log
- 
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+   <br/>
+   <br/>
+   
+
+<h3 align="center">👩‍💻 My Github Stats</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+   <br/>
+   <br/>
 
 <!--
 **Land66Land/Land66Land** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
