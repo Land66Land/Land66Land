@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=I%20am%20Junior%20Developer,%20Yuk%20Jisoo%20👋)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Jisoo%27s%20GitHub)
 
 <!--
 **Land66Land/Land66Land** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
